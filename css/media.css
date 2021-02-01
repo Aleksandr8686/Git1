@@ -1,0 +1,9 @@
+@media (max-width: 1020px){
+.hader_top_link_exit{
+    display: none;
+}
+.navigation{
+    display: none;
+}    
+}
+
